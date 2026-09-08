@@ -8,7 +8,7 @@ First published 2026-09-04
 
 What happens when personal autonomous AI agents are the norm before nobody asked the question: who's responsible? "Lobsters All The Way Down" explores the governance, liability, and institutional drift in a personal agentic future, delivered as a comedic fictional collection of found media pieces.
 
-Download as [ePub](lobsters-all-the-way-down.epub)
+[Download the ePub](https://github.com/sheppoor/lobsters-all-the-way-down/raw/main/lobsters-all-the-way-down.epub)
 
 Get it for your [Amazon Kindle](https://www.amazon.com/dp/B0HHZS9MRW)
 
@@ -22,7 +22,7 @@ That said, if you want to do something cool with the book or the content within,
 
 I'm not a huge fan of [Linkedin](https://www.linkedin.com/in/sheppoor/) but it's probably the fastest way to get my attention.
 
-![Book Cover](./assets/cover.png)
+![Book Cover](./cover.png)
 
 
 ## My Brief Story
